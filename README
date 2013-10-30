@@ -2,9 +2,8 @@ Author: Ashish A Gaikwad <ash.gkwd@gmail.com>
 Project: Ash Free
 File: README
 
-This is very first file in this project.
-Ash Free is a small (or the smallest) PHP framework which allow developers to create small-medium size 
-PHP web apps very fast!
+Ash Free is a small (or the smallest) PHP framework which allow developers to create small-medium size PHP web apps very fast! Ash Free is designed to work in cloud. As of now app.yaml file for Google Cloud is included as part of project.
+
 Development of Ash Free started in 29 October 2013 by Ashish A Gaikwad (fb.me/ash.gkwd).
 
 PHP minimum version required for Ash Free is 5.4
