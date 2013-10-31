@@ -2,6 +2,7 @@
 /*
 * Author: Ashish A Gaikwad <ash.gkwd@gmail.com>
 * App: Ash Free
+* Copyright: 2013 All Rights Reserved
 * File: /welcome.php
 * Purpose: To demonstrate basic controller for Ash Free.
 */

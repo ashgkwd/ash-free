@@ -4,7 +4,7 @@
 * Copyright: 2013 All Rights Reserved
 * App: Ash Free
 * File: /form.php
-* Purpose: Form Validation Plugin. Very Usefull :)
+* Purpose: Form Validation Plugin. Very Useful :)
 */
 namespace AshFree\Plugin;
 

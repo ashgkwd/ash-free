@@ -2,6 +2,7 @@
 /*
 * Author: Ashish A Gaikwad <ash.gkwd@gmail.com>
 * App: Ash Free
+* Copyright: 2013 All Rights Reserved
 * File: /loader.php
 * Purpose: To Load required controller and call the method
 */

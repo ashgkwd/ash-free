@@ -2,6 +2,7 @@
 /*
 * Author: Ashish A Gaikwad <ash.gkwd@gmail.com>
 * App: Ash Free
+* Copyright: 2013 All Rights Reserved
 * File: /AshView.php
 * Purpose: All Output data is sent through this class including JSON, HTML, TEXT.
 */
