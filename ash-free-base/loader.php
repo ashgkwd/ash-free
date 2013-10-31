@@ -16,7 +16,7 @@ class Loader
 	private $controller_class; #this will be actual class name
 
 	function __construct($controller) {
-		$request_url = explode('/', strtolower(ltrim(htmlspecialchars($_SERVER['REQUEST_URI'], PHP_URL_PATH), '/')));
+		$request_url = explode('/', strtolower(ltrim(htmlspecialchars(str_ireplace('?'.$_SERVER['QUERY_STRING'], '', $_SERVER['REQUEST_URI']), PHP_URL_PATH), '/')));
 		$this->request = $request_url;
 
 		if(empty($request_url) or empty($request_url[0])) 
